@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)), url(https://www.lexika-translations.com/wp-content/uploads/2018/05/Latin%C4%8Dina.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200px;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+
+
+.btn1 {
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    color: #ff5964;
+    font-size: 18px;
+    font-weight: bold;
+    background: #25252A;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 360px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+
+.btn1:hover, .btn1:focus, .btn1:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+.btn2 {
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    color: #ff5964;
+    font-size: 18px;
+    font-weight: bold;
+    background: #25252A;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 360px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+
+.btn2:hover, .btn2:focus, .btn2:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.btn3 {
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    color: #ff5964;
+    font-size: 18px;
+    font-weight: bold;
+    background: #25252A;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 360px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+
+.btn3:hover, .btn3:focus, .btn3:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.btn4 {
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    color: #ff5964;
+    font-size: 18px;
+    font-weight: bold;
+    background: #25252A;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 360px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+
+.btn4:hover, .btn4:focus, .btn4:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.btn5 {
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    color: #ff5964;
+    font-size: 18px;
+    font-weight: bold;
+    background: #25252A;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 360px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+}
+
+.btn5:hover, .btn5:focus, .btn5:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
